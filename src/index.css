@@ -11,3 +11,18 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.todo-item {
+  display: flex;
+  align-items: center;
+  color: blue;
+}
+
+.todo-list{
+  box-shadow: 1px;
+  align-items: center;
+}
+
+input[type=checkbox] {
+  margin-right: 10px;
+}

@@ -1,0 +1,12 @@
+.todo-item {
+    display: flex;
+    color: blue;
+}
+
+.todo-list{
+    box-shadow: 1px;
+}
+
+input[type=checkbox] {
+    margin-right: 10px;
+}
